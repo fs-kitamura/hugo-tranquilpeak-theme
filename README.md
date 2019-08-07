@@ -3,6 +3,7 @@
 A gorgeous responsive theme for Hugo blog framework.
 
 ![Tranquilpeak](https://raw.githubusercontent.com/kakawait/hugo-tranquilpeak-theme/master/showcase.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffs-kitamura%2Fhugo-tranquilpeak-theme.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffs-kitamura%2Fhugo-tranquilpeak-theme?ref=badge_shield)
 
 ## Alpha/Beta versions
 
@@ -153,3 +154,6 @@ That mean I would keep a strong dependency with original *Hexo* theme. Thus if y
 
 hugo-tranquilpeak-theme is released under the terms of the [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffs-kitamura%2Fhugo-tranquilpeak-theme.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffs-kitamura%2Fhugo-tranquilpeak-theme?ref=badge_large)
